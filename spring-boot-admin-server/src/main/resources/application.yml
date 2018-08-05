@@ -54,6 +54,8 @@ spring:
       password: "password"
   boot:
     admin:
+      ui:
+        title: "SN Systems Spring Boot Admin"
       client:
         username: "user"       #These two are needed so that the client
         password: "password"   #can register at the protected server api

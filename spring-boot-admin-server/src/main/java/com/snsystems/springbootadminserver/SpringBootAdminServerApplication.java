@@ -39,6 +39,11 @@ import de.codecentric.boot.admin.server.domain.entities.InstanceRepository;
 import de.codecentric.boot.admin.server.web.client.HttpHeadersProvider;
 import de.codecentric.boot.admin.server.web.client.InstanceExchangeFilterFunction;
 
+/**
+ * SpringBoot Admin Server Console Application
+ * @author SN
+ *
+ */
 @EnableAdminServer
 @SpringBootApplication
 public class SpringBootAdminServerApplication {
